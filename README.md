@@ -55,7 +55,7 @@ Your project will now appear in the gallery and can be filtered.
 
 🧪 Run Locally
 
-git clone https://github.com/heetjivani/Reactique.git
+git clone https://github.com/heet077/Reactique.git
 cd Reactique
 npm install
 npm run dev
