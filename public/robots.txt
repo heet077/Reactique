@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reactique.netlify.app/sitemap.xml
